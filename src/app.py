@@ -24,19 +24,19 @@ activities = {
     "Chess Club": {
         "description": "Learn strategies and compete in chess tournaments",
         "schedule": "Fridays, 3:30 PM - 5:00 PM",
-        "max_participants": 12,
+        "max_participants": 3,
         "participants": ["michael@mergington.edu", "daniel@mergington.edu"]
     },
     "Programming Class": {
         "description": "Learn programming fundamentals and build software projects",
         "schedule": "Tuesdays and Thursdays, 3:30 PM - 4:30 PM",
-        "max_participants": 20,
+        "max_participants": 4,
         "participants": ["emma@mergington.edu", "sophia@mergington.edu"]
     },
     "Gym Class": {
         "description": "Physical education and sports activities",
         "schedule": "Mondays, Wednesdays, Fridays, 2:00 PM - 3:00 PM",
-        "max_participants": 30,
+        "max_participants": 2,
         "participants": ["john@mergington.edu", "olivia@mergington.edu"]
     },
     "Basketball Team": {
@@ -48,7 +48,7 @@ activities = {
     "Swimming Club": {
         "description": "Improve swim strokes and conditioning in the school pool",
         "schedule": "Tuesdays and Thursdays, 4:30 PM - 6:00 PM",
-        "max_participants": 18,
+        "max_participants": 1,
         "participants": ["liam@mergington.edu", "maria@mergington.edu"]
     },
     "Art Club": {
