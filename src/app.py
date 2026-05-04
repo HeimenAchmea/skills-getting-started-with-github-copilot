@@ -69,7 +69,7 @@ activities = {
         "max_participants": 14,
         "participants": ["ava@mergington.edu", "ethan@mergington.edu"]
     },
-    "Math Olympiad": {
+    "Advanced Math Olympiad": {
         "description": "Solve challenging math problems and prepare for competitions",
         "schedule": "Mondays, 3:30 PM - 5:00 PM",
         "max_participants": 12,
