@@ -35,7 +35,7 @@ jobs:
         with:
           repository: skills/exercise-toolkit
           path: exercise-toolkit
-          ref: v0.8.1
+          ref: main
 
       - name: Find last comment
         id: find-last-comment
